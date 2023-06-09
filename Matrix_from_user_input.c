@@ -22,7 +22,7 @@ int main(void){
     }   
   }
 
-  //scanning A martrix
+  //printing A martrix
   printf("A = ");
   for(i=0;i<no_row;i++){
 
@@ -47,7 +47,7 @@ int main(void){
     }   
   }
 
-  //scanning B martrix
+  //printing B martrix
   printf("B = ");
   for(i=0;i<no_row;i++){
 
